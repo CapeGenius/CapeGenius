@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @CapeGenius
-- 👀 I’m interested in Artificial Intelligence and Quantum Computing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Artificial Intelligence, Real Time Embedded Systems Quantum Computing
+- 🌱 I’m currently learning Pythonm, JavaScript, 
+- 💞️ I’m looking to collaborate on Real Time Embedded Systems
+- 📫 How to reach me -
+      - my linkedin: Rohan Bendapudi
+      - my outlook: rohan.bendapudi@outlook.com
 
 <!---
 CapeGenius/CapeGenius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
