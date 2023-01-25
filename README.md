@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CapeGenius
-- 👀 I’m interested in Artificial Intelligence, Real Time Embedded Systems, Quantum Computing
+- 👀 I’m interested in Artificial Intelligence, Real Time Embedded Systems, Quantum Computing, and applied mathematics
 - 🌱 I’m currently learning Python, JavaScript, 
 - 💞️ I’m looking to collaborate on Real Time Embedded Systems
 - 📫 How to reach me -
