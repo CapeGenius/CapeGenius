@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CapeGenius
+- 👋 Hi, I’m @CapeGenius, and I'm specialized in Java, Python, and SQL 
 - 👀 I’m interested in Artificial Intelligence, Real Time Embedded Systems, Quantum Computing, and applied mathematics
-- 🌱 I’m currently learning Python, JavaScript, 
-- 💞️ I’m looking to collaborate on Real Time Embedded Systems
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on Real Time Embedded Systems and AI
 - 📫 How to reach me -
       - my linkedin: Rohan Bendapudi
       - my outlook: rohan.bendapudi@outlook.com
